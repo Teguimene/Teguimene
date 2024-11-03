@@ -90,7 +90,7 @@ teguimene-76910b245/">
 </a> <a href="https://gitlab.com/">
   <img width="50" height="50" alt="GitLab" src="https://www.svgrepo.com/show/448226/gitlab.svg">
 </a> <a href="https://postman.com/">
-  <img width="50" height="50" alt="Postman" src="https://www.svgrepo.com/svg/354202/postman-icon.svg">
+  <img width="50" height="50" alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
 </a> 
 
 <!-- **Languages and Tools :** <br />
