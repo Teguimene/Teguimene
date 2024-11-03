@@ -22,7 +22,7 @@ teguimene-76910b245/">
  <a href="https://discord.com/users/korbo0074">
   <img width="30" height="30" alt="Discord" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg">
 </a> <a href="mailto:teguimenefurell@gmail.com">
-  <img width="30" height="30" alt="Gmail" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg">
+  <img width="30" height="30" alt="Gmail" src="https://icons8.com/icon/P7UIlhbpWzZm/gmail-new">
 </a>
 
 **Programming languages :** <br />
