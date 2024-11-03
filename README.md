@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/33d7f7d0-c4de-4943-9637-9770b0420972)## Hi 👋, I'm Furel De Consol TEGUIMENE YENDJI
+## Hi 👋, I'm Furel De Consol TEGUIMENE YENDJI
 
 
 **A Software developer from cameroon**
@@ -22,9 +22,9 @@ teguimene-76910b245/">
  <a href="https://discord.com/users/korbo0074">
   <img width="30" height="30" alt="Discord" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg">
 </a> 
-<!-- <a href="mailto:teguimenefurell@gmail.com">
-  <img width="30" height="30" alt="Gmail" src="">
-</a> -->
+<a href="mailto:teguimenefurell@gmail.com">
+  <img width="30" height="30" alt="Gmail" src="![image](https://github.com/user-attachments/assets/33d7f7d0-c4de-4943-9637-9770b0420972)">
+</a>
 
 **Programming languages** <br />
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
