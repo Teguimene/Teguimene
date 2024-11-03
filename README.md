@@ -17,28 +17,26 @@ Here are some ideas to get you started:
 **Contact me with :** <br />
 <a href="https://www.linkedin.com/in/furel-
 teguimene-76910b245/">
-  <img width="20" height="20" alt="Linkdin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
+  <img width="30" height="30" alt="Linkdin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
 </a>
-<a href="https://www.linkedin.com/in/furel-
-teguimene-76910b245/">
-  <img width="20" height="20" alt="Linkdin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
-</a> <a href="https://discord.com/users/korbo0074">
-  <img width="20" height="20" alt="Discord" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg">
+ <a href="https://discord.com/users/korbo0074">
+  <img width="30" height="30" alt="Discord" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg">
 </a> <a href="mailto:teguimenefurell@gmail.com">
-  <img width="20" height="20" alt="Gmail" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg">
+  <img width="30" height="30" alt="Gmail" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg">
 </a>
 
 **Programming languages :** <br />
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img width="30" height="30" alt="JavaScript" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/javascript.svg">
-</a> <a href="https://www.java.com">
-  <img width="30" height="30" alt="Java" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/java.svg">
+  <img width="30" height="30" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</a>
+<a href="https://www.java.com">
+  <img width="30" height="30" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </a> <a href="https://www.php.net">
-  <img width="30" height="30" alt="PHP" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/php.svg">
+  <img width="30" height="30" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </a> <a href="https://dart.dev">
-  <img width="30" height="30" alt="Dart" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/dart.svg">
+  <img width="30" height="30" alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 </a> <a href="https://www.python.org">
-  <img width="30" height="30" alt="Python" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/python.svg">
+  <img width="30" height="30" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </a>
 
 **Languages and Tools :** <br />
