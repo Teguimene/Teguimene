@@ -57,7 +57,6 @@ teguimene-76910b245/">
   <a href="https://tailwindcss.com">
     <img width="30" height="30" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
   </a>
-  <div>Tailwind CSS</div>
   <a href="https://mui.com">
     <img width="30" height="30" alt="Material-UI" src="https://www.svgrepo.com/show/354048/material-ui.svg">
   </a>
