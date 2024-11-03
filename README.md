@@ -17,55 +17,55 @@ Here are some ideas to get you started:
 **Contact me with** <br />
 <a href="https://www.linkedin.com/in/furel-
 teguimene-76910b245/">
-  <img width="30" height="30" alt="Linkdin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
+  <img width="50" height="50" alt="Linkdin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
 </a>
  <a href="https://discord.com/users/korbo0074">
-  <img width="30" height="30" alt="Discord" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg">
+  <img width="50" height="50" alt="Discord" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg">
 </a> 
 <a href="mailto:teguimenefurell@gmail.com">
-  <img width="30" height="30" alt="Gmail" src="![image](https://github.com/user-attachments/assets/33d7f7d0-c4de-4943-9637-9770b0420972)">
+  <img width="50" height="50" alt="Gmail" src="![image](https://github.com/user-attachments/assets/33d7f7d0-c4de-4943-9637-9770b0420972)">
 </a>
 
 **Programming languages** <br />
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img width="30" height="30" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img width="50" height="50" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </a>
 <a href="https://www.java.com">
-  <img width="30" height="30" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img width="50" height="50" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </a> <a href="https://www.php.net">
-  <img width="30" height="30" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img width="50" height="50" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </a> <a href="https://dart.dev">
-  <img width="30" height="30" alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img width="50" height="50" alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 </a> <a href="https://www.python.org">
-  <img width="30" height="30" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img width="50" height="50" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </a>
 
 **🎨Design** <br />
 <a href="https://www.figma.com">
-  <img width="30" height="30" alt="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
+  <img width="50" height="50" alt="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
 </a>
 
 **🛠 Frameworks and Libraries** <br /> <br />
 **🏝Frontend** <br /> <br />
 <a href="https://reactjs.org">
-  <img width="30" height="30" alt="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img width="50" height="50" alt="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </a> <a href="https://laravel.com">
-  <img width="30" height="30" alt="Laravel" src="https://www.svgrepo.com/show/353985/laravel.svg">
+  <img width="50" height="50" alt="Laravel" src="https://www.svgrepo.com/show/353985/laravel.svg">
 </a>
 <br /> <br />
 **📱 UI** <br /> <br />
   <a href="https://tailwindcss.com">
-    <img width="30" height="30" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+    <img width="50" height="50" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
   </a>
   <a href="https://mui.com">
-    <img width="30" height="30" alt="Material-UI" src="https://www.svgrepo.com/show/354048/material-ui.svg">
+    <img width="50" height="50" alt="Material-UI" src="https://www.svgrepo.com/show/354048/material-ui.svg">
   </a>
 <br /> <br />
 **⚙️ Backend** <br /> <br />
 <a href="https://laravel.com">
-  <img width="30" height="30" alt="Laravel" src="https://www.svgrepo.com/show/353985/laravel.svg">
+  <img width="50" height="50" alt="Laravel" src="https://www.svgrepo.com/show/353985/laravel.svg">
 </a> <a href="https://spring.io">
-  <img width="30" height="30" alt="Laravel" src="https://www.svgrepo.com/show/333604/spring-boot.svg">
+  <img width="50" height="50" alt="Laravel" src="https://www.svgrepo.com/show/333604/spring-boot.svg">
 </a>
 
 **Languages and Tools :** <br />
