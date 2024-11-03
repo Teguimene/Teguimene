@@ -65,7 +65,7 @@ teguimene-76910b245/">
 <a href="https://laravel.com">
   <img width="50" height="50" alt="Laravel" src="https://www.svgrepo.com/show/353985/laravel.svg">
 </a> <a href="https://spring.io">
-  <img width="50" height="50" alt="Laravel" src="https://www.svgrepo.com/show/333604/spring-boot.svg">
+  <img width="50" height="50" alt="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg">
 </a>
 
 **Languages and Tools :** <br />
