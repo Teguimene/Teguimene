@@ -1,12 +1,12 @@
 ## Hi 👋, I'm Furel De Consol TEGUIMENE YENDJI
 
 
-**A Software developer from cameroon**
+**A Software developer, Itermediate AI from cameroon**
 
 Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning **Large Language Models (LLMs)**
+- 🌱 I’m currently learning **Merging LLMs**
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about **react, php, java**
