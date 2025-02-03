@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Furel De Consol TEGUIMENE YENDJI
 
 
-**A Software developer, Itermediate AI from cameroon**
+**A Software developer, Intermediate AI from cameroon**
 
 Here are some ideas to get you started:
 
